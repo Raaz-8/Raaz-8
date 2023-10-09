@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJs and UI Design**
 
-- 👨‍💻 All of my projects are available at [https://mighty-v-t.vercel.app/](https://mighty-v-t.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mayur-v-t.vercel.app/](https://mayur-v-t.vercel.app/)
 
 - 💬 Ask me about **Graphics Designs & Python**
 
